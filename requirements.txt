@@ -1,0 +1,5 @@
+aiohttp==3.11.18
+Brotli==1.1.0
+lzhgetlogger==1.0
+playwright==1.52.0
+python-dotenv==1.1.0
